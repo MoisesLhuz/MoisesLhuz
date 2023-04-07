@@ -2,6 +2,11 @@
 Bem vindo(a) ao meu perfil,
 
 Baiano, estudante de Desenvolvimento de Sistemas (2/3), em destaque algumas das linguagens que estou trabalhando atualmente HTML • CSS3 • PHP • Java • MySQL, com paixão por criar experiências de usuário bonitas e funcionais. Foco dos estudos
+:smiley:if($gostou){
+ $status = follow;
+}else{
+ $status = move on;
+} :smiley:
 
  <div>
    <a href="https://github.com/MoisesLhuz">
