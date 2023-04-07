@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao perfil do Moises Luz
+Bem vindo(a) ao meu perfil,
+
+Baiano, estudante de Desenvolvimento de Sistemas (2/3), em destaque algumas das linguagens que estou trabalhando atualmente HTML • CSS3 • PHP • Java • MySQL, com paixão por criar experiências de usuário bonitas e funcionais. Foco dos estudos
 
  <div>
    <a href="https://github.com/MoisesLhuz">
