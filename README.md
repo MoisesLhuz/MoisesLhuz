@@ -1,13 +1,23 @@
-## Bem-vindo(a) ao perfil do Moises Luz
-Bem vindo(a) ao meu perfil,
+![image](https://github.com/MoisesLhuz/MoisesLhuz/assets/113149089/21990383-df3e-4d99-afe4-405484d12ff6)
 
-Baiano, estudante de Desenvolvimento de Sistemas (2/3), em destaque, desenvolvimento em | HTML • CSS3 |, nas linguagens | C • PHP • Java • MySQL |, com paixão por criar experiências de usuário bonitas e funcionais.
 
-:smiley:if($gostou){
- $status = follow;
-}else{
- $status = move on;
-} :smiley:
+
+<h1>Moises Santos da Luz</h1>  
+
+
+<a href="www.linkedin.com/in/moisés-luz">
+ <img width="30px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png">
+</a>
+
+Baiano, estudante de Desenvolvimento de Sistemas (2/3), em destaque, desenvolvimento em | HTML | CSS | JavaScript | React | PHP |, com paixão e dedicação em criar experiências de usuário bonitas e funcionais.
+
+<h3>💼 Current project</h3>
+
+if ($gostou) {<br>
+ $status = follow;<br>
+} else {<br>
+ $status = go to my repository;<br>
+}
 
  <div>
    <a href="https://github.com/MoisesLhuz">
