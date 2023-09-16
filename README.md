@@ -83,7 +83,7 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=How+to+reach+me)](https://git.io/typing-svg)
 
 <p align="center">
- <a href="www.linkedin.com/in/moisés-luz" target="_blank">
+ <a href="https://www.linkedin.com/in/mois%C3%A9s-luz/" target="_blank">
   <img width="100px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">
  </a>
 
