@@ -83,19 +83,19 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=How+to+reach+me)](https://git.io/typing-svg)
 
 <p align="center">
- <a href="www.linkedin.com/in/moisés-luz">
+ <a href="www.linkedin.com/in/moisés-luz" target="_blank">
   <img width="100px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">
  </a>
 
- <a href="https://wa.me/5571999685168">
+ <a href="https://wa.me/5571999685168" target="_blank">
   <img width="100px" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif">
  </a>
  
- <a href="https://www.instagram.com/moisesluz.santos">
+ <a href="https://www.instagram.com/moisesluz.santos" target="_blank">
   <img width="100px" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
  </a>
  
- <a href="https://www.facebook.com/moises.santos.1276">
+ <a href="https://www.facebook.com/moises.santos.1276" target="_blank">
   <img width="100px" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif">
  </a>
  
