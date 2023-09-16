@@ -72,7 +72,8 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 <h2>💼 Useful JavaScript Projects
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/> 
 </h2>
-<a href="https://github.com/MoisesLhuz/Useful" target="_blank">Projects</a> <br>
+<a href="https://github.com/MoisesLhuz/Useful" target="_blank">Projects</a> 
+<br>
 <a href="https://paratyphoid-knowled.000webhostapp.com/moises/" target="_blank">Portfólio</a> 
 
 <br><br><br><br><br><br><br>
