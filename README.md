@@ -44,38 +44,38 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 
 <br><br><br><br><br><br><br>
 
-<h2>💼 NFT WEb Site 
+<h2>💼 <a href="https://github.com/MoisesLhuz/NFT_Website">NFT WEb Site</a>
 <img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/NFT_Website/main/assets/img/nft-website-image.jpg"/> 
 </h2>
 
 <br><br><br><br><br><br><br>
 
-<h2>💼 Virtual store in PHP
+<h2>💼 <a href="https://github.com/MoisesLhuz/projeto-LojaVirtual">Virtual store in PHP</a>
 <img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/projeto-LojaVirtual/main/LOJA%20VIRTUAL/img/loja_virtual.jpg"/> 
 </h2>
 
 <br><br><br><br><br><br><br>
 
-<h2>💼 hDC_Agency Technology Company
+<h2>💼 <a href="https://github.com/MoisesLhuz/projeto-hDC_Agency">hDC_Agency Technology Company</a>
 <img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/projeto-hDC_Agency/master/img/hdc-agency-image.jpg"/> 
 </h2>
 
 
 <br><br><br><br><br><br><br>
 
-<h2>💼 iMovi Real Estate Company
+<h2>💼 <a href="https://github.com/MoisesLhuz/projeto-iMovi">iMovi Real Estate Company</a>
 <img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/projeto-iMovi/master/img/IMovi-image.jpg"/> 
 </h2>
 
 <br><br><br><br><br><br><br>
 
-<h2>💼 iPhone Clone Web site
+<h2>💼 <a href="https://github.com/MoisesLhuz/page_Clone_iPhone13Pro">iPhone Clone Web site</a>
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/113149089/262519260-d90760a6-6621-4454-91a2-594255e1cb67.jpg"/> 
 </h2>
 
 <br><br><br><br><br><br><br>
 
-<h2>💼 Useful JavaScript Projects
+<h2>💼 <a href="https://github.com/MoisesLhuz/Useful">Useful JavaScript Projects</a>
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/> 
 </h2>
 <a href="https://github.com/MoisesLhuz/Useful" target="_blank">Projects</a> 
