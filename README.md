@@ -38,7 +38,7 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 
 <br><br>
 
-<h2>💼 MovieList WEb Site in ReactJs
+<h2>💼 <a href="https://github.com/MoisesLhuz/MovieList">MovieList WEb Site in ReactJs</a>   
 <img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/MovieList/master/MovieLista.jpg"/> 
 </h2>
 
