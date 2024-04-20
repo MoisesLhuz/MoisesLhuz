@@ -1,6 +1,6 @@
 <h2 align="center" font-weight="bold">
 🔭 Estou trabalhando atualmente com a linguagem JavaScript <br>
-⚡ FrameWorks: Bootstrap, ReactJs, NodeJs, React Native(Dispositivos Móveis) <br>
+⚡ FrameWorks: Bootstrap, React, Node, PHP <br>
 🤝 Procuro parcerias em Projetos <br><br>
 </h2>
 
