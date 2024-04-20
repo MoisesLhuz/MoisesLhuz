@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Aboute+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 <span>
