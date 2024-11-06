@@ -28,9 +28,9 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 <br><br><br><br>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Strengths+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Habilidades+de+Força)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,php,codeigniter,wordpress,mysql,java,figma" width="100%">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,php,git,wordpress,mysql,java,figma" width="100%">
 
 <hr>
 
