@@ -1,6 +1,6 @@
 <h2 align="center" font-weight="bold">
 🔭 Estou trabalhando atualmente com a linguagem JavaScript, PHP <br>
-⚡ FrameWorks: Bootstrap, Codeigniter, wordPress, React<br>
+⚡ Frameworks: Bootstrap, Codeigniter, wordPress, React<br>
 🤝 Procuro parcerias em Projetos <br><br>
 </h2>
 
