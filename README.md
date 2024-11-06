@@ -1,21 +1,21 @@
 <h2 align="center" font-weight="bold">
-🔭 Estou trabalhando atualmente com a linguagem JavaScript, PHP <br>
-⚡ FrameWorks: Bootstrap, React, Node<br>
+🔭 Estou trabalhando atualmente com a linguagem JavaScript, PHP, Node <br>
+⚡ FrameWorks: Bootstrap, Codeigniter, wordPress, React<br>
 🤝 Procuro parcerias em Projetos <br><br>
 </h2>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Sobre+Mim%3A)](https://git.io/typing-svg)
 
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 <span>
-Sou um apaixonado e dedicado Desenvolvedor Front-end, com expertise em diversas tecnologias-chave, incluindo HTML, CSS, JavaScript, React e PHP. Minha paixão está em criar experiências de usuário que são não apenas bonitas, mas também altamente funcionais. Com um olhar atento aos detalhes e uma abordagem centrada no usuário, busco constantemente elevar o nível de qualidade e usabilidade em todos os projetos que abordo. Minha jornada como desenvolvedor é impulsionada pelo desejo de criar soluções que não apenas atendam às necessidades do cliente, mas também encantem e cativem os usuários finais. Estou sempre ansioso para enfrentar novos desafios e explorar as possibilidades infinitas que a web oferece. Vamos trabalhar juntos para transformar ideias em realidade e criar experiências online excepcionais!
+Sou um apaixonado e dedicado Desenvolvedor tentando chegar ao FullStack, com expertise em diversas tecnologias-chave, incluindo HTML, CSS, JavaScript, React e PHP. Minha paixão está em criar experiências de usuário que são não apenas bonitas, mas também altamente funcionais. Com um olhar atento aos detalhes e uma abordagem centrada no usuário, busco constantemente elevar o nível de qualidade e usabilidade em todos os projetos que abordo. Minha jornada como desenvolvedor é impulsionada pelo desejo de criar soluções que não apenas atendam às necessidades do cliente, mas também encantem e cativem os usuários finais. Estou sempre ansioso para enfrentar novos desafios e explorar as possibilidades infinitas que a web oferece. Vamos trabalhar juntos para transformar ideias em realidade e criar experiências online excepcionais!
 </span>
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=My+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Minhas+Habilidades)](https://git.io/typing-svg)
 
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif"/>
 
@@ -30,7 +30,7 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Strengths+Skills)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,php,java,mysql,java,figma" width="100%">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,php,codeigniter,wordpress,mysql,java,figma" width="100%">
 
 <hr>
 
