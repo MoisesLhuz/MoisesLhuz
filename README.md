@@ -1,12 +1,12 @@
 <h2 align="center" font-weight="bold">
-🔭 Estou trabalhando atualmente com a linguagem JavaScript, PHP, Node <br>
+🔭 Estou trabalhando atualmente com a linguagem JavaScript, PHP <br>
 ⚡ FrameWorks: Bootstrap, Codeigniter, wordPress, React<br>
 🤝 Procuro parcerias em Projetos <br><br>
 </h2>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Sobre+Mim%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Sobre+Mim)](https://git.io/typing-svg)
 
 <img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 <span>
@@ -30,63 +30,11 @@ para o sucesso está na constante busca por conhecimento e na habilidade de apli
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Habilidades+de+Força)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,php,git,wordpress,mysql,java,figma" width="100%">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react,php,wordpress,git,mysql,figma" width="100%">
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Latest+Projects)](https://git.io/typing-svg)
-
-<br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/MovieList" target="_blank">MovieList WEb Site in ReactJs</a>   
-<img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/MovieList/master/MovieLista.jpg"/> 
-</h2>
-
-<br><br><br><br><br><br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/NFT_Website">NFT WEb Site</a>
-<img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/NFT_Website/main/assets/img/nft-website-image.jpg"/> 
-</h2>
-
-<br><br><br><br><br><br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/projeto-LojaVirtual">Virtual store in PHP</a>
-<img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/projeto-LojaVirtual/main/LOJA%20VIRTUAL/img/loja_virtual.jpg"/> 
-</h2>
-
-<br><br><br><br><br><br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/projeto-hDC_Agency">hDC_Agency Technology Company</a>
-<img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/projeto-hDC_Agency/master/img/hdc-agency-image.jpg"/> 
-</h2>
-
-
-<br><br><br><br><br><br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/projeto-iMovi">iMovi Real Estate Company</a>
-<img width="350px" align="right" src="https://raw.githubusercontent.com/MoisesLhuz/projeto-iMovi/master/img/IMovi-image.jpg"/> 
-</h2>
-
-<br><br><br><br><br><br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/page_Clone_iPhone13Pro">iPhone Clone Web site</a>
-<img width="350px" align="right" src="https://user-images.githubusercontent.com/113149089/262519260-d90760a6-6621-4454-91a2-594255e1cb67.jpg"/> 
-</h2>
-
-<br><br><br><br><br><br><br>
-
-<h2>💼 <a href="https://github.com/MoisesLhuz/Useful">Useful JavaScript Projects</a>
-<img width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/> 
-</h2>
-<a href="https://github.com/MoisesLhuz/Useful" target="_blank">Projects</a> 
-<br>
-<a href="https://paratyphoid-knowled.000webhostapp.com/moises/" target="_blank">Portfólio</a> 
-
-<br><br><br><br><br><br><br>
-
-<hr>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=How+to+reach+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2C9ACA&width=435&lines=Como+chegar+até+mim)](https://git.io/typing-svg)
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mois%C3%A9s-luz/" target="_blank">
